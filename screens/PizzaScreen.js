@@ -20,7 +20,6 @@ export default function Home() {
             <Text style={{padding: 10, fontSize: 42}}>
             {value.split(' ').map((word) => word && '🍕').join(' ')}
           </Text>
-         
         </View>
       );
   }
