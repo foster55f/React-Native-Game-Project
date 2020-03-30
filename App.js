@@ -5,7 +5,6 @@ import * as Font from 'expo-font';
 import { Ionicons } from '@expo/vector-icons';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
-import { GameEngine } from "react-native-game-engine";
 
 
 import BottomTabNavigator from './navigation/BottomTabNavigator';
